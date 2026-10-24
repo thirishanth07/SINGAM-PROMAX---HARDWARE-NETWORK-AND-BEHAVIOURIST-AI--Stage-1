@@ -37,21 +37,4 @@ The table below shows where project materials are located in the repository. All
 | `Study Guide.md` | Folder for learning-content `.md` files for each section of the module | To be populated |
 | `Video Tutorials/` | Folder for video tutorial scripts and related assets | To be populated |
 | `LOGS/` | AI-use records, if AI assistance is used, according to the assignment rules | Active |
-| 
-### Planned repository structure
 
-```text
-.
-├── Hardware, Network and Behavioral AI/
-├── assets/
-├── logs/
-│ └── ai-use/
-│       └── [AI-use records]
-├── Master To-do List.md
-├── Module Outline.md
-├── Project Plan.md
-├── Project Requirements.docx
-├── README.md
-├── Study Guide/
-├── Video Tutorials/
-└── review-log.md
