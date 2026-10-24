@@ -146,3 +146,44 @@ TOPS (Tera Operations Per Second) measures raw compute speed—how much math the
 **Model answer:**
 
 Modern accelerators can perform math extremely quickly, but they are often starved for data. If the memory bandwidth is too low, the compute units sit idle waiting for data to arrive. This is known as being "memory-bound." In many AI workloads, especially inference on large models, the time and energy spent moving data from memory to the processor far exceed the time spent doing the actual math.
+
+## References
+
+### 1. Von Neumann, J. (1945)
+
+**Von Neumann, J.** *First Draft of a Report on the EDVAC.* 1945.
+
+- **Internet Archive scan:** [First Draft of a Report on the EDVAC](https://archive.org/details/firstdraftofrepo00vonn)
+- **Alternative PDF (Stanford mirror):** [Download PDF](http://qss.stanford.edu/~godfrey/vonNeumann/vnedvac.pdf)
+
+### 2. Hennessy, J. L., and Patterson, D. A.
+
+**Hennessy, J. L., and Patterson, D. A.** *Computer Architecture: A Quantitative Approach.*
+
+- **Edition:** 7th Edition, Morgan Kaufmann, 2025
+- **Google Books:** [Computer Architecture: A Quantitative Approach](https://books.google.com/books/about/Computer_Architecture.html?id=0gNHEQAAQBAJ)
+
+### 3. Patterson, D. A., and Hennessy, J. L.
+
+**Patterson, D. A., and Hennessy, J. L.** *Computer Organization and Design.*
+
+- **Edition:** RISC-V Edition, Morgan Kaufmann, 2017
+- **Google Books:** [Computer Organization and Design — RISC-V Edition](https://books.google.com/books/about/Computer_Organization_and_Design_RISC_V.html?id=w6ZaDwAAQBAJ)
+
+### 4. Horowitz, M. (2014)
+
+**Horowitz, M.** “Computing’s Energy Problem (and What We Can Do About It).” *IEEE International Solid-State Circuits Conference (ISSCC)*, 2014.
+
+- **DOI:** [10.1109/ISSCC.2014.6757323](https://doi.org/10.1109/ISSCC.2014.6757323)
+
+### 5. NVIDIA
+
+**NVIDIA.** *CUDA C Programming Guide.*
+
+- **Official Documentation:** [NVIDIA CUDA C Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
+
+### 6. Jouppi, N. P., et al. (2017)
+
+**Jouppi, N. P., et al.** “In-Datacenter Performance Analysis of a Tensor Processing Unit.” *International Symposium on Computer Architecture (ISCA)*, 2017.
+
+- **DOI:** [10.1145/3079856.3080246](https://doi.org/10.1145/3079856.3080246)
