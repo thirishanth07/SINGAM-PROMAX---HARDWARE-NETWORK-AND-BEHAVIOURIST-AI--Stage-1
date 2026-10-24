@@ -2,340 +2,442 @@
 
 ## Hardware, Network & Behaviourist AI
 
-**Team:** SINGAM PROMAX  
-**Project:** Stage 1 — GitHub and Markdown Assignment  
-**Repository Owner:** thirishanth07 (Thirishanth Veerasingam)  
+**Project Team:** SINGAM PROMAX  
+**Project Title:** Hardware, Network & Behaviourist AI  
+**Project Coordinator:** Thirishanth Veerasingam  
+**GitHub Repository Owner:** [@thirishanth07](https://github.com/thirishanth07)  
 **Repository Visibility:** Public  
-**Learning Format:** Self-paced online module with weekly check-ins
+**Learning Format:** Self-paced learning with weekly check-ins  
+**Estimated Learning Duration:** 12–15 hours
 
 ---
 
-## 1. Project Purpose
+## 1. Team Members
 
-The purpose of this project is to develop a comprehensive, beginner-friendly educational module titled **Hardware, Network & Behaviourist AI**.
-
-The module explores how computer hardware, network infrastructure, and behaviourist artificial intelligence work together to create intelligent systems capable of sensing, learning, making decisions, and responding to their environments.
-
-The project is divided into three major components:
-
-1. **Hardware — The Silicon:** Understanding the physical computing systems that execute AI operations.
-2. **Network — The Bridge:** Understanding how neural networks, memory systems, sensors, and communication networks support AI applications.
-3. **Behaviourist AI — The Intelligence:** Understanding how intelligent agents learn from environmental feedback and adapt their behaviour.
-
-The final learning resources will include:
-
-- A comprehensive Markdown study guide
-- PowerPoint presentation slides
-- Educational diagrams and illustrations
-- Short video tutorials
-- Worked examples and exercises
-- Chapter-based knowledge assessments
-- An integrated capstone project
-
-The Markdown content stored in GitHub will serve as the primary source for all learning resources.
+| Name | GitHub Username | Role | Experience | Strengths |
+|---|---|---|---|---|
+| **1820262042 THIRISHANTH VEERASINGAM** | [@thirishanth07](https://github.com/thirishanth07) | Coordinator (CEO), Repository & Submission Lead | Intermediate AI User | Taking complex problems and breaking them into smaller problems |
+| **1820262102 Sharon Ang Qi Xuan** | [@halohqx](https://github.com/halohqx) | Content Lead | Beginner in AI | Adaptable & good problem solver |
+| **1820262059 Lim Qi Shean** | [@sheanlimqix-bit](https://github.com/sheanlimqix-bit) | CIO & Video Tutorial Lead | Beginner in AI | Organized & detail-oriented |
+| **1820262037 Lim Yun May** | [@chels731](https://github.com/chels731) | Quality Lead | Intermediate in AI | Teamwork |
+| **1820262338 Zumen Lew** | [@zumenlew2008-gif](https://github.com/zumenlew2008-gif) | Visual Design Lead | Intermediate in AI | Initiative & communication |
+| **1820262136 Ramon Calderan** | [@Marron1860](https://github.com/Marron1860) | Visual Design Lead | Intermediate in AI | Versatile |
 
 ---
 
-## 2. Target Learners
+## 2. Team Roles and Responsibilities
+
+### 2.1 Project Coordinator — Thirishanth Veerasingam
+
+**Role:** Coordinator (CEO), Repository & Submission Lead
+
+Responsibilities:
+
+1. Oversee the overall project development.
+2. Coordinate team activities and meetings.
+3. Assign tasks and monitor progress.
+4. Maintain the GitHub repository.
+5. Organize project files and documentation.
+6. Ensure compliance with project requirements.
+7. Monitor deadlines and submission progress.
+8. Review and approve final deliverables.
+9. Coordinate the integration of learning materials.
+10. Submit the completed project.
+
+### 2.2 Content Lead — Sharon Ang Qi Xuan
+
+**Role:** Content Lead
+
+Responsibilities:
+
+1. Coordinate development of the 12 learning chapters.
+2. Ensure consistency across educational content.
+3. Review explanations and technical terminology.
+4. Organize learning objectives for each chapter.
+5. Ensure learning activities match intended outcomes.
+6. Coordinate research and reference collection.
+7. Support team members with content development.
+8. Maintain consistency between Markdown, slides, and videos.
+
+### 2.3 CIO & Video Tutorial Lead — Lim Qi Shean
+
+**Role:** CIO & Video Tutorial Lead
+
+Responsibilities:
+
+1. Coordinate the production of video tutorials.
+2. Organize digital project resources.
+3. Manage the video production workflow.
+4. Ensure learning videos follow chapter content.
+5. Coordinate screen recordings and demonstrations.
+6. Review video audio and visual quality.
+7. Ensure all videos include captions.
+8. Maintain organized video files and resources.
+9. Support the technical integration of project materials.
+
+### 2.4 Quality Lead — Lim Yun May
+
+**Role:** Quality Lead
+
+Responsibilities:
+
+1. Review technical accuracy of learning materials.
+2. Check the clarity of explanations.
+3. Verify terminology and definitions.
+4. Review worked examples and assessments.
+5. Check references and citations.
+6. Ensure consistent Markdown formatting.
+7. Identify errors and missing information.
+8. Coordinate peer reviews.
+9. Verify that final learning resources meet project requirements.
+10. Approve content quality before submission.
+
+### 2.5 Visual Design Lead — Zumen Lew
+
+**Role:** Visual Design Lead
+
+Responsibilities:
+
+1. Design educational diagrams.
+2. Create PowerPoint slide layouts.
+3. Develop illustrations explaining technical concepts.
+4. Maintain consistent visual styling.
+5. Design hardware and networking diagrams.
+6. Create suitable visual materials for videos.
+7. Ensure visual explanations support learning objectives.
+8. Collaborate with the Content Lead.
+
+### 2.6 Visual Design Lead — Ramon Calderan
+
+**Role:** Visual Design Lead
+
+Responsibilities:
+
+1. Support PowerPoint presentation design.
+2. Develop educational illustrations and infographics.
+3. Create AI architecture and workflow diagrams.
+4. Design visual examples for technical concepts.
+5. Support the development of video visuals.
+6. Ensure diagrams are clear and technically accurate.
+7. Review presentation layout and visual consistency.
+8. Collaborate with Zumen Lew on visual deliverables.
+
+---
+
+## 3. Project Purpose
+
+The purpose of this project is to develop a structured, beginner-friendly learning module titled **Hardware, Network & Behaviourist AI**.
+
+The module introduces the relationship between computer hardware, networking technologies, and artificial intelligence systems that learn through environmental interaction.
+
+The project will explain how intelligent systems:
+
+1. Process information using specialized computer hardware.
+2. Communicate through networks and connected devices.
+3. Collect information from sensors.
+4. Interpret data using neural networks.
+5. Learn from feedback and environmental interaction.
+6. Make decisions and generate appropriate responses.
+7. Operate efficiently under hardware and latency constraints.
+
+The module is divided into three major parts:
+
+- **Part I — Hardware (The Silicon)**
+- **Part II — Network (The Bridge)**
+- **Part III — Behaviourist AI (The Intelligence)**
+
+The final educational resources will include Markdown chapters, presentation slides, video tutorials, diagrams, assessments, and an integrated capstone project.
+
+---
+
+## 4. Target Learners
 
 ### Primary Audience
 
-Undergraduate students interested in:
+The target learners are undergraduate students interested in:
 
 - Artificial intelligence
+- Computer hardware
+- Embedded systems
 - Edge AI
-- Embedded machine learning
-- Computer architecture
 - Internet of Things (IoT)
+- Machine learning
+- Computer networking
 - Intelligent systems
-- Robotics and behavioural computing
+- Robotics
 
 ### Prerequisite Knowledge
 
 Learners should have:
 
-- Basic programming knowledge in Python or C
-- Understanding of variables, loops, and functions
-- Basic familiarity with vectors and matrices
-- Basic computer literacy
+1. Basic programming knowledge in Python or C.
+2. Understanding of variables, loops, and functions.
+3. Basic knowledge of vectors and matrices.
+4. General computer literacy.
 
-No prior experience in computer hardware, networking, or artificial intelligence is required.
+No previous experience with computer architecture, networking, or artificial intelligence is assumed.
 
-### Learning Environment
+### Learning Context
 
 The module is designed for:
 
-- Self-paced online learning
 - University coursework
-- Laboratory-based learning
-- Group projects
+- Self-paced learning
+- Weekly group discussions
+- Laboratory activities
+- Guided simulations
 - Capstone project preparation
 
 ### Learning Constraints
 
 | Requirement | Description |
 |---|---|
-| Total Duration | Approximately 12–15 hours |
-| Learning Format | Asynchronous, with weekly check-ins |
-| Software | Free simulators and development tools |
-| Hardware | Physical boards optional |
-| Accessibility | Captions required for all videos |
-| Cost | Prefer free and open-source resources |
-| Assessment | Chapter activities and final capstone |
+| Total Learning Time | Approximately 12–15 hours |
+| Learning Format | Asynchronous with weekly check-ins |
+| Software | Free simulators and open-source tools |
+| Hardware | Optional physical development boards |
+| Programming | Basic Python or C |
+| Videos | Approximately one video per chapter |
+| Accessibility | Captions required |
+| Assessments | Chapter knowledge checks and final assessment |
 
 ---
 
-## 3. Intended Learning Outcomes
+## 5. Intended Learning Outcomes
 
 By the end of this module, learners should be able to:
 
-1. Explain the **von Neumann bottleneck** and why AI workloads place heavy demands on memory bandwidth and data movement.
+1. Explain the **von Neumann bottleneck** and why AI workloads demand efficient memory access and data movement.
 
-2. Compare **CPU, GPU, ASIC, NPU, TPU, and FPGA architectures** using performance metrics such as TOPS, TOPS/W, FLOPS, and latency.
+2. Compare **CPU, GPU, ASIC, NPU, TPU, and FPGA architectures** using performance metrics such as TOPS, FLOPS, TOPS/W, and latency.
 
-3. Describe how neural network computations are mapped onto hardware accelerators.
+3. Describe how neural network operations are mapped onto hardware accelerators.
 
-4. Explain the importance of memory hierarchy and Network-on-Chip (NoC) architecture in AI processing efficiency.
+4. Explain how memory hierarchy and Network-on-Chip (NoC) architecture affect AI performance and energy efficiency.
 
-5. Select appropriate communication technologies, including **5G, Wi-Fi, Bluetooth Low Energy (BLE), and MQTT**, for different edge AI and IoT applications.
+5. Select appropriate communication technologies such as 5G, Wi-Fi, BLE, and MQTT for edge AI and IoT applications.
 
-6. Distinguish behaviourism from cognitivism and explain the **agent–environment interaction loop** involving perception, action, and reward.
+6. Distinguish behaviourism from cognitivism and explain the perception–action–reward learning process.
 
-7. Develop a basic behaviourist AI pipeline involving sensor data, feature extraction, sequence modeling, and real-time inference.
+7. Develop a simple behaviourist AI pipeline that processes sensor data and produces intelligent responses.
 
-8. Apply model optimization techniques such as quantization and pruning to meet hardware performance requirements.
+8. Apply model optimization methods, including quantization and pruning, to improve inference efficiency.
 
-9. Evaluate AI system performance based on processing speed, latency, memory requirements, energy efficiency, and scalability.
+9. Evaluate AI systems based on latency, throughput, computational efficiency, scalability, and energy consumption.
 
-10. Assess ethical considerations involving surveillance, data privacy, algorithmic bias, and cloud-based versus on-device processing.
-
----
-
-## 4. Team Members and Responsibilities
-
-| Team Member | GitHub Username | Role | Assigned Chapters |
-|---|---|---|---|
-| Kuypheav | @brain-go-pew | Coordinator, Repository and Submission Lead | Chapters 3 and 4 |
-| Panha | To be confirmed | Content Writer | Chapters 1 and 7 |
-| Brain | To be confirmed | Content Writer | Chapters 2 and 6 |
-| Pun | To be confirmed | Content Writer | Chapters 5 and 12 |
-| Egshiglen | To be confirmed | Content Writer | Chapters 8 and 9 |
-| Shark | To be confirmed | Content Writer | Chapters 10 and 11 |
-| Samuel | @SamuelT8 | Quality Assurance Lead | Review and quality control |
-
-### Team Responsibilities
-
-**Project Coordinator**
-- Monitor overall progress.
-- Maintain the GitHub repository.
-- Coordinate submissions.
-- Ensure deadlines are met.
-
-**Content Writers**
-- Research assigned chapters.
-- Prepare Markdown learning materials.
-- Include explanations, examples, diagrams, and references.
-- Develop chapter knowledge checks.
-- Review assigned content.
-
-**Quality Assurance Lead**
-- Review technical accuracy.
-- Check Markdown formatting.
-- Identify missing information.
-- Review references and citations.
-- Ensure consistent terminology across chapters.
+10. Assess ethical issues involving surveillance, privacy, algorithmic bias, and responsible AI development.
 
 ---
 
-## 5. Content Outline
+## 6. Learning Depth Definitions
 
-### Difficulty Levels
-
-| Level | Expected Learning Achievement |
+| Level | Expected Learning Outcome |
 |---|---|
-| Beginner | Explain concepts and follow worked demonstrations |
-| Intermediate | Apply knowledge with some guidance |
-| Advanced | Independently design solutions and justify decisions |
+| **Beginner** | Learners can explain concepts and follow guided demonstrations. |
+| **Intermediate** | Learners can apply concepts with some guidance. |
+| **Advanced** | Learners can independently develop solutions and justify technical decisions. |
 
 ---
 
-# Part I — Hardware (The Silicon)
+## 7. Content Outline and Chapter Structure
 
-## Chapter 1: Introduction to Computer Hardware for AI
+### Part I — Hardware (The Silicon)
 
-**Owner:** Panha  
+#### Chapter 1: Introduction to Computer Hardware for AI
+
 **Depth:** Beginner  
-**Duration:** 45 minutes
+**Duration:** 45 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
-- Traditional computer architecture
+**Key Concepts:**
+
+- Computer hardware fundamentals
 - Von Neumann bottleneck
 - AI training versus inference
-- CPU and AI hardware fundamentals
-- TOPS, TOPS/W, FLOPS, and latency
+- TOPS and FLOPS
+- TOPS/W and energy efficiency
+- AI inference latency
 
-### Learning Activities
-- Compare three AI accelerator specification sheets.
-- Complete a latency-versus-throughput worksheet.
+**Learning Activities:**
+
+1. Compare three AI accelerator specification sheets.
+2. Complete a latency-versus-throughput worksheet.
 
 ---
 
-## Chapter 2: Digital Logic and Computer Organization
+#### Chapter 2: Digital Logic and Computer Organization
 
-**Owner:** Brain  
 **Depth:** Beginner  
-**Duration:** 60 minutes
+**Duration:** 60 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
+**Key Concepts:**
+
 - Transistors and logic gates
-- Boolean operations
-- Arithmetic Logic Units (ALUs)
-- Registers and memory
-- Instruction Set Architectures (ISA)
+- Boolean logic
+- Combinational and sequential circuits
+- Arithmetic Logic Units
+- Registers
+- Instruction Set Architectures
 - Multiply-accumulate operations
-- Matrix multiplication in digital hardware
+- Matrix multiplication in digital logic
 
-### Learning Activities
-- Trace a MAC operation.
-- Complete a basic ISA walkthrough.
+**Learning Activities:**
+
+1. Trace a multiply-accumulate operation.
+2. Complete an ISA walkthrough.
 
 ---
 
-## Chapter 3: CPU and GPU Architectures (and ASICs)
+#### Chapter 3: CPU and GPU Architectures (and ASICs)
 
-**Owner:** Kuypheav  
 **Depth:** Beginner–Intermediate  
-**Duration:** 60 minutes
+**Duration:** 60 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
+**Key Concepts:**
+
 - CPU architecture
-- Sequential processing
-- SIMD execution
+- Serial processing
+- SIMD processing
 - GPU parallel computing
+- GPU memory systems
 - ASIC design
-- Performance and energy trade-offs
+- Hardware performance trade-offs
 
-### Learning Activities
-- Benchmark or simulate CPU versus GPU matrix multiplication.
-- Explain observed performance differences.
+**Learning Activities:**
+
+1. Benchmark or simulate CPU versus GPU matrix multiplication.
+2. Explain the observed performance differences.
 
 ---
 
-## Chapter 4: AI Accelerators — NPUs, TPUs and FPGAs
+#### Chapter 4: AI Accelerators — NPUs, TPUs and FPGAs
 
-**Owner:** Kuypheav  
 **Depth:** Intermediate  
-**Duration:** 60 minutes
+**Duration:** 60 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
+**Key Concepts:**
+
 - Neural Processing Units
 - Tensor Processing Units
 - Field-Programmable Gate Arrays
 - Systolic arrays
 - MAC units
+- AI acceleration
 - Reconfigurable hardware
-- Specialized AI accelerators
 
-### Learning Activities
-- Map a small neural network layer onto a systolic array.
-- Compare different AI accelerators.
+**Learning Activities:**
+
+1. Map a small neural network layer onto a systolic array.
+2. Create an AI accelerator comparison table.
 
 ---
 
-# Part II — Network (The Bridge)
+### Part II — Network (The Bridge)
 
-## Chapter 5: Neural Network Architectures
+#### Chapter 5: Neural Network Architectures
 
-**Owner:** Pun  
 **Depth:** Intermediate  
-**Duration:** 75 minutes
+**Duration:** 75 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
+**Key Concepts:**
+
 - Artificial neural networks
 - Convolutional Neural Networks
 - Transformer architectures
 - Neural network computation graphs
-- Mapping neural networks to hardware
+- Mapping neural networks onto hardware
 
-### Learning Activities
-- Implement a small CNN or attention forward pass using NumPy.
-- Identify hardware operations required for neural network execution.
+**Learning Activities:**
+
+1. Implement a small CNN or attention forward pass using NumPy.
+2. Identify the hardware operations required to execute the model.
 
 ---
 
-## Chapter 6: Memory Hierarchy, NoC and Low-Power Hardware
+#### Chapter 6: Memory Hierarchy, NoC and Low-Power Hardware
 
-**Owner:** Brain  
 **Depth:** Intermediate  
-**Duration:** 60 minutes
+**Duration:** 60 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
-- Cache and memory hierarchy
+**Key Concepts:**
+
+- Registers and caches
+- Memory hierarchy
 - Memory bandwidth
 - Data movement energy costs
 - Network-on-Chip architecture
 - Embedded computing
-- Low-power AI hardware
 - TinyML
 
-### Learning Activities
-- Estimate energy used for computation versus data movement.
-- Sketch a Network-on-Chip architecture.
+**Learning Activities:**
+
+1. Estimate the energy costs of computation versus data movement.
+2. Sketch a Network-on-Chip architecture.
 
 ---
 
-## Chapter 7: Edge Computing and IoT Networking
+#### Chapter 7: Edge Computing and IoT Networking
 
-**Owner:** Panha  
 **Depth:** Intermediate  
-**Duration:** 60 minutes
+**Duration:** 60 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
+**Key Concepts:**
+
 - Cloud computing versus edge computing
-- Edge AI applications
+- Edge AI
 - Internet of Things
+- 5G
 - Wi-Fi
 - Bluetooth Low Energy
-- 5G connectivity
-- MQTT communication
+- MQTT
 - Distributed inference
 
-### Learning Activities
-- Simulate an MQTT message between an edge device and a cloud service.
-- Select networking protocols for different IoT scenarios.
+**Learning Activities:**
+
+1. Simulate an MQTT message from an edge device to a cloud service.
+2. Develop a protocol selection matrix.
 
 ---
 
-## Chapter 8: Sensor Networks and Event-Based Sensing
+#### Chapter 8: Sensor Networks and Event-Based Sensing
 
-**Owner:** Egshiglen  
 **Depth:** Intermediate–Advanced  
-**Duration:** 60 minutes
+**Duration:** 60 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
+**Key Concepts:**
+
 - Sensor networks
 - Event cameras
 - Inertial Measurement Units
-- Audio sensor arrays
+- Audio arrays
 - Event-driven processing
-- Asynchronous sensor streams
+- Asynchronous data streams
 - Sensor data processing
 
-### Learning Activities
-- Stream asynchronous sensor data into a processing pipeline.
-- Handle missing, delayed, and out-of-order events.
+**Learning Activities:**
+
+1. Stream asynchronous sensor data through a processing pipeline.
+2. Handle missing, delayed, and out-of-order sensor events.
 
 ---
 
-# Part III — Behaviourist AI (The Intelligence)
+### Part III — Behaviourist AI (The Intelligence)
 
-## Chapter 9: Introduction to Behaviourist AI
+#### Chapter 9: Introduction to Behaviourist AI
 
-**Owner:** Egshiglen  
 **Depth:** Intermediate  
-**Duration:** 60 minutes
+**Duration:** 60 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
+**Key Concepts:**
+
 - Behaviourism
 - Cognitivism
 - Stimulus-response learning
@@ -344,41 +446,45 @@ By the end of this module, learners should be able to:
 - Reinforcement learning
 - Behavioural cloning
 
-### Learning Activities
-- Implement a simple gridworld environment.
-- Develop an agent that responds to rewards.
+**Learning Activities:**
+
+1. Build a simple gridworld environment.
+2. Implement an agent that learns through rewards.
 
 ---
 
-## Chapter 10: Behavioral Signals, Sensing and Representation
+#### Chapter 10: Behavioral Signals, Sensing and Representation
 
-**Owner:** Shark  
 **Depth:** Intermediate–Advanced  
-**Duration:** 75 minutes
+**Duration:** 75 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
+**Key Concepts:**
+
 - Human behavioural signals
 - Pose estimation
 - Eye gaze
 - Speech and audio
-- Biometric signals
+- Biometrics
 - Time-series data
 - Multimodal features
 - Sensor fusion
 
-### Learning Activities
-- Extract features from pose or audio time-series data.
-- Combine information from two different sensors.
+**Learning Activities:**
+
+1. Extract features from pose or audio time-series data.
+2. Combine information from two different sensing modalities.
 
 ---
 
-## Chapter 11: Behavioral Modeling, Learning and Real-Time Edge Inference
+#### Chapter 11: Behavioral Modeling, Learning and Real-Time Edge Inference
 
-**Owner:** Shark  
 **Depth:** Advanced  
-**Duration:** 75 minutes
+**Duration:** 75 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
+**Key Concepts:**
+
 - Behavioural prediction
 - Recurrent Neural Networks
 - Long Short-Term Memory networks
@@ -388,23 +494,25 @@ By the end of this module, learners should be able to:
 - Real-time edge inference
 - Latency optimization
 
-### Learning Activities
-- Train a small sequence model.
-- Apply quantization and pruning.
-- Measure inference latency.
-- Attempt to achieve latency below 50 milliseconds.
+**Learning Activities:**
+
+1. Train a small sequence model.
+2. Apply quantization or pruning.
+3. Measure inference latency.
+4. Attempt to achieve inference latency below 50 milliseconds.
 
 ---
 
-## Chapter 12: Applications, Ethics, Privacy and Future Directions
+#### Chapter 12: Applications, Ethics, Privacy and Future Directions
 
-**Owner:** Pun  
 **Depth:** Advanced  
-**Duration:** 60 minutes
+**Duration:** 60 minutes  
+**Chapter Owner:** TBA
 
-### Key Topics
+**Key Concepts:**
+
 - Smart homes
-- Healthcare applications
+- Healthcare AI
 - Robotics
 - Autonomous vehicles
 - Edge AI applications
@@ -412,73 +520,96 @@ By the end of this module, learners should be able to:
 - AI surveillance
 - Algorithmic bias
 - Responsible AI
-- Future developments
+- Future technologies
 
-### Learning Activities
-- Develop an integrated behaviourist edge AI concept.
-- Evaluate privacy and ethical trade-offs.
+**Learning Activities:**
+
+1. Develop an integrated behaviourist edge AI concept.
+2. Evaluate privacy and ethical trade-offs.
 
 ---
 
-## 6. Total Learning Duration
+## 8. Chapter Assignment and Progress Tracking
 
-| Part | Chapters | Duration |
+| Chapter | Topic | Assigned Member | Status |
+|---|---|---|---|
+| 1 | Introduction to Computer Hardware for AI | TBA | To be confirmed |
+| 2 | Digital Logic and Computer Organization | TBA | To be confirmed |
+| 3 | CPU and GPU Architectures (and ASICs) | TBA | To be confirmed |
+| 4 | AI Accelerators: NPUs, TPUs and FPGAs | TBA | To be confirmed |
+| 5 | Neural Network Architectures | TBA | To be confirmed |
+| 6 | Memory Hierarchy, NoC and Low-Power Hardware | TBA | To be confirmed |
+| 7 | Edge Computing and IoT Networking | TBA | To be confirmed |
+| 8 | Sensor Networks and Event-Based Sensing | TBA | To be confirmed |
+| 9 | Introduction to Behaviourist AI | TBA | To be confirmed |
+| 10 | Behavioral Signals, Sensing and Representation | TBA | To be confirmed |
+| 11 | Behavioral Modeling, Learning and Real-Time Edge Inference | TBA | To be confirmed |
+| 12 | Applications, Ethics, Privacy and Future Directions | TBA | To be confirmed |
+
+**Note:** Chapter ownership will be finalized by the Project Coordinator and Content Lead.
+
+---
+
+## 9. Total Learning Duration
+
+| Module Part | Chapters | Duration |
 |---|---|---|
 | Hardware | Chapters 1–4 | 3 hours 45 minutes |
 | Network | Chapters 5–8 | 4 hours 15 minutes |
 | Behaviourist AI | Chapters 9–12 | 4 hours 30 minutes |
-| **Chapter Total** | **12 chapters** | **12 hours 30 minutes** |
-| Capstone Demonstration | Integrated project | 1 hour |
-| **Overall Total** | | **13 hours 30 minutes** |
+| **Total Chapter Duration** | **12 chapters** | **12 hours 30 minutes** |
+| Capstone Demonstration | Integrated Project | 1 hour |
+| **Overall Estimated Duration** | | **13 hours 30 minutes** |
 
 ---
 
-## 7. Scope Boundaries
+## 10. Scope Boundaries
 
 ### In Scope
 
-**Hardware**
-- Computer architecture
+**Hardware:**
+- Von Neumann bottleneck
 - Digital logic
-- CPU and GPU processing
+- CPU and GPU architectures
 - AI accelerators
 - Memory hierarchy
 - Hardware performance metrics
 
-**Networking**
+**Networking:**
 - Neural network architectures
-- Network-on-Chip systems
+- Network-on-Chip
 - Edge computing
-- IoT networking protocols
+- IoT communication protocols
 - Sensor networks
 - Event-based sensing
 
-**Behaviourist AI**
+**Behaviourist AI:**
 - Behaviourism and cognitivism
 - Agent–environment interaction
 - Reinforcement learning
 - Behavioural cloning
 - Behavioural signal processing
 - Sequence models
-- Model optimization
 - Real-time inference
 
-**Learning Resources**
-- Markdown lessons
+**Learning Resources:**
+- Markdown chapters
+- PowerPoint slides
 - Educational diagrams
 - Code examples
-- Exercises
-- 12 video tutorials
-- Chapter assessments
-- Integrated capstone project
+- Learning exercises
+- Video tutorials
+- Knowledge assessments
+- Capstone project
 
 ### Out of Scope
 
 - Advanced chip design
-- RTL and Verilog programming
+- RTL and Verilog
 - PCB design and soldering
-- Full mathematical derivations of deep learning algorithms
-- Advanced network routing and VPN configuration
+- Full mathematical derivations of advanced AI algorithms
+- Advanced network routing
+- VPN configuration
 - Complex cloud infrastructure
 - Production deployment
 - Professional certification
@@ -486,43 +617,74 @@ By the end of this module, learners should be able to:
 
 ---
 
-## 8. Project Timeline
+## 11. Project Timeline
 
 | Stage | Deadline | Main Deliverables |
 |---|---|---|
-| Stage 1 | 24 October 2026 | Project plan, GitHub repository, content outline, task assignments, initial Markdown chapters |
-| Stage 2 | 7 November 2026 | All 12 Markdown chapters, study guide draft, PPT slides, video drafts, and assessments |
-| Stage 3 | 28 November 2026 | Revised learning resources, completed videos, capstone demonstration, final review, and submission |
+| **Stage 1** | 24 October 2026 | Project plan, GitHub repository, task assignments, chapter outlines, and initial Markdown content |
+| **Stage 2** | 7 November 2026 | Twelve Markdown chapters, study guide draft, PowerPoint slides, assessments, and video drafts |
+| **Stage 3** | 28 November 2026 | Final learning resources, completed videos, capstone demonstration, quality review, and submission |
 
-### Internal Checkpoints
+### Stage 1 — Planning and Initial Development
 
-**Stage 1**
-- Finalize chapter assignments.
-- Complete project planning.
-- Establish GitHub folder structure.
-- Prepare initial Markdown learning content.
+Tasks:
 
-**Stage 2**
-- 3 November: Complete Markdown drafts and peer review.
-- 6 November: Complete initial study guide, slides, assessments, and video drafts.
-- 7 November: Stage 2 submission.
+1. Finalize project scope.
+2. Confirm team responsibilities.
+3. Establish the GitHub repository.
+4. Create the project plan.
+5. Organize the 12 chapters.
+6. Assign chapter ownership.
+7. Prepare initial Markdown content.
+8. Review Stage 1 deliverables.
 
-**Stage 3**
-- 14 November: Collect learner feedback.
-- 21 November: Complete content revisions.
-- 25 November: Final quality review.
-- 27 November: Prepare final submission.
-- 28 November: Final project deadline.
+### Stage 2 — Content Development
+
+**Internal Deadline: 3 November 2026**
+
+Tasks:
+
+1. Complete all 12 Markdown chapters.
+2. Conduct technical peer reviews.
+3. Develop educational diagrams.
+4. Prepare PowerPoint slides.
+5. Draft video scripts.
+6. Prepare knowledge assessments.
+7. Compile the study guide.
+
+**Stage 2 Submission: 7 November 2026**
+
+### Stage 3 — Final Development and Submission
+
+**14 November 2026**
+- Collect learner feedback.
+- Identify areas requiring improvement.
+
+**21 November 2026**
+- Complete content revisions.
+- Update slides and video resources.
+
+**25 November 2026**
+- Conduct final quality assurance.
+- Verify references and assessments.
+
+**27 November 2026**
+- Prepare final submission materials.
+
+**28 November 2026**
+- Final project submission.
 
 ---
 
-## 9. Shared Markdown Content Plan
+## 12. Shared Markdown Content Plan
 
 The GitHub Markdown files will serve as the project's **single source of truth**.
 
-All slides, scripts, activities, and assessments should remain consistent with the Markdown chapters.
+All presentation slides, video scripts, exercises, and assessments must remain consistent with the approved Markdown content.
 
-### Each Chapter Must Include
+### Required Chapter Structure
+
+Every chapter must contain:
 
 1. Chapter title
 2. Learning objectives
@@ -536,86 +698,91 @@ All slides, scripts, activities, and assessments should remain consistent with t
 10. Explained answers
 11. References and sources
 
-### Recommended Repository Structure
+### Recommended GitHub Repository Structure
 
 - `README.md` — Project overview
 - `Project Plan.md` — Project planning document
 - `Study Guide/` — Chapter Markdown files
-- `assets/images/` — Educational illustrations
-- `slides/` — PowerPoint presentations
-- `videos/` — Tutorial scripts and resources
+- `assets/images/` — Diagrams and illustrations
+- `slides/` — PowerPoint presentation materials
+- `videos/` — Video scripts and tutorial resources
 - `assessments/` — Questions and answer keys
 - `capstone/` — Integrated project materials
 
 ---
 
-## 10. PowerPoint Presentation Plan
+## 13. PowerPoint Presentation Plan
 
 ### Objective
 
-Create clear, visually engaging presentations that explain the technical concepts in all 12 chapters.
+Develop a visually engaging educational presentation covering all 12 chapters.
 
 ### Presentation Requirements
 
-Each chapter presentation should contain:
+Each chapter presentation should include:
 
 - Learning objectives
-- Essential concepts
-- Relevant diagrams
-- Hardware or system examples
-- Practical applications
+- Main technical concepts
+- Diagrams and illustrations
+- Practical examples
 - Knowledge-check questions
 - Chapter summary
 - References
 
-### Visual Materials
+### Visual Design Responsibilities
 
-Examples include:
+**Zumen Lew**
+- Educational diagrams
+- Infographics
+- Presentation design
+- Hardware and networking illustrations
 
-- Von Neumann architecture diagram
-- CPU versus GPU comparison
-- Systolic array illustration
-- Memory hierarchy diagram
-- IoT networking architecture
-- Sensor processing pipeline
-- Agent–environment interaction loop
-- Behavioural AI inference pipeline
+**Ramon Calderan**
+- Supporting illustrations
+- Slide design
+- AI workflow diagrams
+- Visual consistency and layout
+
+Both Visual Design Leads will collaborate to maintain a consistent presentation style.
 
 ---
 
-## 11. Video Tutorial Production Plan
+## 14. Video Tutorial Production Plan
 
 ### Objective
 
-Develop 12 short educational video tutorials covering all chapters.
+Produce 12 educational video tutorials, one for each chapter.
 
-### Format
+### Video Format
 
-- One video per chapter
 - Approximately 5–20 minutes per video
-- Screen recordings and narrated slides
-- Demonstrations where appropriate
+- Screen recordings
+- Narrated slides
+- Practical demonstrations
+- Educational animations where appropriate
 - Captions required
-- Beginner-friendly explanations
+
+### Video Production Lead
+
+**Lim Qi Shean — CIO & Video Tutorial Lead**
 
 ### Production Workflow
 
-1. Finalize Markdown chapter.
-2. Prepare video script.
-3. Develop supporting slides and visuals.
-4. Record narration and demonstrations.
-5. Edit video.
+1. Finalize the Markdown chapter.
+2. Prepare the video script.
+3. Develop supporting slides.
+4. Record the video.
+5. Edit the recording.
 6. Add captions.
-7. Conduct technical and accessibility review.
-8. Publish the completed tutorial.
+7. Review technical accuracy.
+8. Conduct quality assurance.
+9. Finalize the tutorial.
 
-### Important Dependency
-
-Markdown content must be reviewed and sufficiently stable before video recording begins.
+**Important:** Markdown content must be sufficiently stable before recording begins.
 
 ---
 
-## 12. Live Mini-Lecture Plan
+## 15. Live Mini-Lecture Plan
 
 ### Proposed Topic
 
@@ -623,7 +790,7 @@ Markdown content must be reviewed and sufficiently stable before video recording
 
 ### Objective
 
-Demonstrate how hardware, networking, and behaviourist AI can work together in a practical intelligent system.
+Demonstrate how computer hardware, networking, and behaviourist AI work together in an intelligent system.
 
 ### Duration
 
@@ -633,174 +800,223 @@ Approximately 15–20 minutes.
 
 **Introduction — 3 minutes**
 - Introduce edge AI.
-- Explain the role of sensors and intelligent agents.
+- Explain intelligent sensing.
 
 **Technical Explanation — 5 minutes**
 - Explain sensor data collection.
-- Demonstrate basic feature extraction.
-- Describe how AI models process incoming information.
+- Demonstrate feature extraction.
+- Describe neural network inference.
 
 **Practical Demonstration — 7 minutes**
 - Show a simulated sensor input.
-- Process the sensor data.
-- Demonstrate a simple AI decision or agent response.
+- Process incoming data.
+- Demonstrate an AI decision or response.
 
 **Discussion and Q&A — 5 minutes**
-- Discuss latency and hardware limitations.
-- Explain privacy concerns.
-- Answer audience questions.
+- Discuss inference latency.
+- Explain hardware limitations.
+- Address privacy concerns.
 
 ---
 
-## 13. Integrated Capstone Project
+## 16. Integrated Capstone Project
 
-### Project Objective
+### Project Title
 
-Design a small intelligent system that combines:
+**Smart Behaviour-Aware Edge AI System**
 
-- Sensor input
-- Data processing
+### Objective
+
+Develop a simulated intelligent system that integrates:
+
+- Sensor data collection
+- Feature extraction
 - Network communication
 - AI inference
 - Agent decision-making
 - Environmental feedback
 
-### Suggested Project
-
-**Smart Behaviour-Aware Edge AI System**
-
-A simulated smart environment detects user activity through sensors, processes the signals using an AI model, and generates an appropriate response.
-
-### Project Pipeline
+### System Workflow
 
 1. Collect sensor data.
-2. Extract meaningful features.
-3. Process data using an AI model.
+2. Extract relevant features.
+3. Process the features using an AI model.
 4. Perform inference on an edge device or simulator.
 5. Select an action.
 6. Respond to environmental feedback.
-7. Evaluate performance.
+7. Evaluate system performance.
 
 ### Evaluation Criteria
 
-- System functionality
-- Inference latency
+- Functional correctness
 - Computational efficiency
-- Appropriate networking decisions
-- Privacy protection
-- Ethical considerations
+- Inference latency
+- Network communication
+- Hardware suitability
+- Privacy considerations
+- Ethical implications
 - Quality of technical explanation
 
 ---
 
-## 14. Main Project Risks and Solutions
+## 17. Project Risks and Solutions
 
 | Risk | Proposed Solution |
 |---|---|
-| Limited hardware knowledge | Provide beginner-level explanations and worked examples |
-| Difficult technical topics | Use diagrams, demonstrations, and peer review |
-| Lack of physical hardware | Use free simulators and software-based experiments |
+| Limited hardware knowledge | Provide beginner-friendly explanations and worked examples |
+| Difficult AI concepts | Use diagrams, guided exercises, and demonstrations |
+| Lack of physical hardware | Use free simulators |
 | Programming difficulties | Provide starter code and guided activities |
-| Uneven workload | Assign clear chapter ownership and review progress weekly |
-| Delayed submissions | Use internal deadlines and early progress reporting |
-| Inaccurate technical information | Verify claims using textbooks, research papers, and official documentation |
-| Inconsistent learning resources | Use Markdown as the single source of truth |
-| Excessive project scope | Prioritize core learning outcomes and simplified demonstrations |
-| Video production delays | Finalize chapter content before recording |
-| Accessibility issues | Include captions, readable fonts, and clear visual explanations |
+| Uneven workload | Assign clear responsibilities and monitor weekly progress |
+| Delayed submissions | Use internal deadlines and regular progress reporting |
+| Inaccurate technical content | Verify claims using reliable technical references |
+| Inconsistent learning materials | Maintain Markdown as the single source of truth |
+| Excessive project scope | Prioritize core learning outcomes |
+| Video production delays | Finalize Markdown before recording |
+| Poor visual quality | Conduct visual design reviews |
+| Accessibility issues | Include captions and readable text |
+| Missing references | Conduct reference verification before submission |
 
 ---
 
-## 15. Communication and Project Management
+## 18. Communication and Task Management
 
-### Communication
+### Communication Channels
 
-- Primary communication through the team group chat.
-- Weekly progress updates.
+- Team group chat for daily communication.
+- Weekly progress meetings.
 - Additional meetings before major deadlines.
+- GitHub repository for documentation and updates.
 
-### Task Tracking
+### Meeting Structure
 
-- Members update task progress through the group chat.
-- Approved updates are recorded in the GitHub repository.
-- Chapter completion status is monitored regularly.
+**Weekly Meetings**
+- Review completed tasks.
+- Discuss current difficulties.
+- Assign upcoming tasks.
+- Monitor project deadlines.
 
-### Quality Assurance
+**Stage Checkpoints**
+- Review deliverables before each submission.
+- Identify unresolved issues.
+- Confirm submission readiness.
+
+### Task Management
+
+- The Project Coordinator monitors project progress.
+- The Content Lead coordinates educational content.
+- The CIO & Video Tutorial Lead coordinates digital and video resources.
+- The Quality Lead reviews project accuracy and consistency.
+- Both Visual Design Leads coordinate illustrations and presentation design.
+
+---
+
+## 19. Quality Assurance Plan
+
+### Quality Lead
+
+**Lim Yun May**
+
+### Content Review Checklist
 
 Before approving a chapter:
 
-1. Confirm technical accuracy.
-2. Check that learning objectives are addressed.
-3. Verify terminology.
-4. Review worked examples.
-5. Check diagrams and image references.
-6. Test code examples where applicable.
-7. Review knowledge-check answers.
-8. Verify references.
-9. Confirm Markdown displays correctly on GitHub.
+1. Verify learning objectives.
+2. Check technical explanations.
+3. Confirm terminology accuracy.
+4. Review examples and demonstrations.
+5. Check mathematical calculations.
+6. Verify diagrams and illustrations.
+7. Review learning activities.
+8. Verify assessment answers.
+9. Check references and citations.
+10. Confirm Markdown displays correctly on GitHub.
+
+### Final Quality Review
+
+The team will verify that:
+
+- All 12 chapters are complete.
+- Learning objectives are addressed.
+- Technical information is accurate.
+- Diagrams are clearly labelled.
+- Markdown formatting is consistent.
+- Video captions are included.
+- References are identifiable.
+- Assessments match learning outcomes.
+- Final deliverables meet submission requirements.
 
 ---
 
-## 16. Assessment Plan
+## 20. Assessment Plan
 
-### Formative Assessment
+### Chapter Assessments
 
 Each chapter will include:
 
-- Short knowledge-check questions
-- Practical exercises
+- Knowledge-check questions
+- Practical activities
 - Worked examples
 - Explained answers
 
 ### Final Assessment
 
-A Google Forms assessment will evaluate understanding across:
+A Google Forms assessment will cover:
 
-1. Hardware fundamentals
+1. Computer hardware fundamentals
 2. Digital logic
-3. CPU and GPU architecture
+3. CPU and GPU architectures
 4. AI accelerators
-5. Neural networks
-6. Memory and NoC
-7. IoT networking
+5. Neural network architectures
+6. Memory hierarchy and NoC
+7. Edge computing and IoT
 8. Sensor networks
 9. Behaviourist AI
-10. Behavioural sensing
-11. Edge inference
+10. Behavioural signal processing
+11. Real-time inference
 12. Applications and ethics
 
 ### Capstone Assessment
 
-Learners will also demonstrate their ability to combine hardware, networking, and AI concepts in an integrated application.
+Learners will demonstrate the integration of hardware, networking, and behaviourist AI concepts in an intelligent system.
 
 ---
 
-## 17. Expected Final Deliverables
-
-By the final submission, SINGAM PROMAX aims to produce:
+## 21. Expected Final Deliverables
 
 - [ ] Completed project plan
 - [ ] Public GitHub repository
 - [ ] Twelve completed Markdown chapters
-- [ ] Educational illustrations and diagrams
-- [ ] PowerPoint slides
+- [ ] Educational diagrams and illustrations
+- [ ] PowerPoint presentation slides
 - [ ] Twelve captioned video tutorials
 - [ ] Chapter exercises and answer keys
-- [ ] Final Google Forms assessment
+- [ ] Google Forms final assessment
 - [ ] Integrated capstone project
 - [ ] Live mini-lecture presentation
-- [ ] References and glossary
+- [ ] Glossary of technical terminology
+- [ ] References and learning resources
 - [ ] Final quality assurance review
 
 ---
 
-## 18. Conclusion
+## 22. Conclusion
 
-The Hardware, Network & Behaviourist AI project aims to provide learners with a practical understanding of how intelligent systems operate, from the underlying computer hardware to network communication and adaptive AI behaviour.
+The SINGAM PROMAX project aims to provide undergraduate learners with a practical introduction to the relationship between computer hardware, networking, and behaviourist artificial intelligence.
 
-Through structured lessons, simulations, worked examples, and a capstone project, learners will develop the ability to understand, evaluate, and design basic intelligent systems.
+The module combines theoretical explanations with simulations, practical demonstrations, visual learning materials, and an integrated capstone project.
 
-The project emphasizes **technical understanding, practical application, energy efficiency, responsible AI development, and collaborative learning**.
+Through this learning experience, students will develop the ability to understand how AI systems process information, communicate through networks, learn from environmental feedback, and operate efficiently under hardware constraints.
+
+The project emphasizes:
+
+- Technical understanding
+- Practical application
+- Energy efficiency
+- Responsible AI development
+- Collaborative learning
+- Clear technical communication
 
 **Prepared by:** SINGAM PROMAX  
-**Project:** Hardware, Network & Behaviourist AI
+**Project Coordinator:** Thirishanth Veerasingam  
+**Project Title:** Hardware, Network & Behaviourist AI
