@@ -948,41 +948,7 @@ The team will verify that:
 
 ---
 
-## 20. Assessment Plan
-
-### Chapter Assessments
-
-Each chapter will include:
-
-- Knowledge-check questions
-- Practical activities
-- Worked examples
-- Explained answers
-
-### Final Assessment
-
-A Google Forms assessment will cover:
-
-1. Computer hardware fundamentals
-2. Digital logic
-3. CPU and GPU architectures
-4. AI accelerators
-5. Neural network architectures
-6. Memory hierarchy and NoC
-7. Edge computing and IoT
-8. Sensor networks
-9. Behaviourist AI
-10. Behavioural signal processing
-11. Real-time inference
-12. Applications and ethics
-
-### Capstone Assessment
-
-Learners will demonstrate the integration of hardware, networking, and behaviourist AI concepts in an intelligent system.
-
----
-
-## 21. Expected Final Deliverables
+## 20. Expected Final Deliverables
 
 - [ ] Completed project plan
 - [ ] Public GitHub repository
@@ -1000,7 +966,7 @@ Learners will demonstrate the integration of hardware, networking, and behaviour
 
 ---
 
-## 22. Conclusion
+## 21. Conclusion
 
 The SINGAM PROMAX project aims to provide undergraduate learners with a practical introduction to the relationship between computer hardware, networking, and behaviourist artificial intelligence.
 
