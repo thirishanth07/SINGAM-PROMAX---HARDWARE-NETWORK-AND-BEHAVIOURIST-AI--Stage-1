@@ -52,7 +52,4 @@ By the end of this module, learners should be able to:
 | 12 | **Applications, Ethics, Privacy and Future Directions** — smart healthcare, autonomous systems, smart homes, robotics, surveillance, data privacy, algorithmic bias, AI security, and emerging technologies | Lim Yun May | `Completed` | Discuss real-world applications of hardware, networking, and behaviorist AI. Evaluate ethical challenges, privacy risks, and future developments. |
 
 
-## 4. Gaps and Uncertainties
-- Section 13 ("My Project & Wrap-Up") needs clarification on what the specific project entails.
-- We need to decide if the Google Form assessment is created directly in Google Forms or if the questions are drafted in Markdown first.
-- Visual assets (flowcharts for Section 5) are missing and need to be created or sourced.
+
