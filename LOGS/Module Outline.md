@@ -34,7 +34,7 @@ By the end of this module, learners should be able to:
 
 # Hardware, Network and Behaviorist AI — Module Outline
 
-## 2. Module Content and Task Distribution
+## Module Content and Task Distribution
 
 | Section | Topic / Subtopics | Owner | Status | Notes |
 |---|---|---|---|---|
