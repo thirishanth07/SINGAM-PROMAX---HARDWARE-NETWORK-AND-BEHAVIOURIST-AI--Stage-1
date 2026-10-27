@@ -194,3 +194,11 @@ Modern accelerators can perform math extremely quickly, but they are often starv
 **Jouppi, N. P., et al.** “In-Datacenter Performance Analysis of a Tensor Processing Unit.” *International Symposium on Computer Architecture (ISCA)*, 2017.
 
 - **DOI:** [10.1145/3079856.3080246](https://doi.org/10.1145/3079856.3080246)
+
+### 7. INSTAGRAM (August 21st 2026)
+
+**INSTAGRAM.** *Training vs Inference*
+
+- **Official Documentation:** (https://www.instagram.com/p/DcTY23NJT5O/)
+
+  
