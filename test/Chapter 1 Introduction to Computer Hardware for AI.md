@@ -18,7 +18,7 @@ Readers interact with AI daily through chatbots, recommendation engines, and sma
 
 | Term | Definition |
 |---|---|
-| **Von Neumann Bottleneck**![vbn](https://media.geeksforgeeks.org/wp-content/uploads/20260918144115070601/frame_3828.webp)| The performance limitation caused by the physical separation of the CPU (compute) and memory (storage) in traditional computers, forcing data to shuttle back and forth. |
+| **Von Neumann Bottleneck**![vbn](https://storage.googleapis.com/chat-bucket-gcs/9b1c4030-ecf0-4c9b-b9a1-04b17da69b88.jpeg)| The performance limitation caused by the physical separation of the CPU (compute) and memory (storage) in traditional computers, forcing data to shuttle back and forth. |
 | **Training** | The computationally intensive process of feeding massive datasets into a neural network to adjust its parameters (weights) so it can learn patterns. |
 | **Inference** | The process of using a fully trained model to make predictions or generate outputs on new, unseen data. |
 | **TOPS** | Tera Operations Per Second. A measure of how many trillions of operations (like additions or multiplications) a chip can perform per second, often used for INT8 precision. |
