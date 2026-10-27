@@ -31,7 +31,7 @@ The table below shows where project materials are located in the repository. All
 |---|---|---|
 | `README.md` | Team, module, project purpose, intended learners, repository structure, progress | Completed |
 | `Module Outline.md` | Whole-module outline: learning outcomes, topics, sequence, prerequisites, status labels | Completed |
-| `Master To-do List.md` | High-level checklist of all tasks that need to be completed for the project | Active |
+| `To-do-list.md` | High-level checklist of all tasks that need to be completed for the project | Active |
 | `Project Plan.md` | Detailed project plan and task list, including owners and deadlines | Active |
 | `Review Log.md` | Record of peer review: what was checked, found, and corrected | To be updated |
 | `Study Guide.md` | Folder for learning-content `.md` files for each section of the module | To be populated |
