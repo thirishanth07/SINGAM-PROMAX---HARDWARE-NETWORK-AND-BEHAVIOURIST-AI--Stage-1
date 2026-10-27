@@ -64,7 +64,8 @@ Because of the training/inference split, the hardware ecosystem has diversified 
 
 - **ASICs (Application-Specific Integrated Circuits):** The ultimate specialization. Designed for a single task (like the TPU), they offer the highest performance-per-watt but cost millions to design and cannot be repurposed.
 
-![Uploading image.png…]()
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/86f73a16-9bb2-4d37-8eab-b43346c8e95a" />
+
 
 
 ### 3. The Key Performance Metrics
