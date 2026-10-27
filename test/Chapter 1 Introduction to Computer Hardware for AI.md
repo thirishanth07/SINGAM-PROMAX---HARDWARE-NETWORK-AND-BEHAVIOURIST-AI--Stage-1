@@ -47,6 +47,9 @@ AI workloads are split into two distinct phases, each demanding different hardwa
 
 - **Inference:** This phase is about applying knowledge. It requires low latency (fast response times), high throughput (handling many requests), and often operates at lower precision (like INT8 or INT4) to save power. **NPUs** and **edge TPUs** are engineered specifically for this, prioritizing energy efficiency (TOPS/W) over raw compute power.
 
+  <img width="279" height="379" alt="image" src="https://github.com/user-attachments/assets/8073f665-a1d0-493a-9aed-03b465f4bcc3" />
+
+
 ### 2. The Accelerator Landscape
 
 Because of the training/inference split, the hardware ecosystem has diversified into specialized accelerators.
