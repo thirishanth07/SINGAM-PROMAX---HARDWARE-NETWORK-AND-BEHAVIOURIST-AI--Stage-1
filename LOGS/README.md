@@ -10,7 +10,7 @@
 
 | Name | GitHub username | Role | Experience | Strengths |
 |---|---|---|---|---|
-| 1820262042 THIRISHANTH VEERASINGAM  | `@thirishanth07` | Coordinator (CEO), Repository & Submission Lead | Intermediate AI user | Taking complex problems and breaking it into small problems.|
+| 1820262042 Thirishanth Veerasingam  | `@thirishanth07` | Coordinator (CEO), Repository & Submission Lead | Intermediate AI user | Taking complex problems and breaking it into small problems.|
 | 1820262102 Sharon Ang Qi Xuan | `@halohqx` | Content Lead | Beginner in AI  | Adaptable & Good Problem Solver |
 | 1820262059 Lim Qi Shean  | `@sheanlimqix-bit` | CIO & Video Tutorial Lead | Beginner in AI | Organized & detail oriented |
 | 1820262037 Lim Yun May  | `@chels731` | Quality Lead | Intermediate in AI  | Teamwork |
