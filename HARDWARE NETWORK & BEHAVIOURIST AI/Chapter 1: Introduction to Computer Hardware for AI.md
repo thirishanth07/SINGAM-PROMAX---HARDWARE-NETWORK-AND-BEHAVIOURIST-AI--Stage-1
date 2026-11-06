@@ -45,6 +45,7 @@ Computers use **bits** to represent all data.
 | **GPU** | Parallel processing. |
 
 ## Von Neumann Architecture
+<br> ![Computer System Block Diagram](https://github.com/user-attachments/assets/35a5d384-d54d-4053-b084-52139bf8277b)
 
 - **CPU:** Fetches, decodes, and executes instructions. The Control Unit directs data flow, and the ALU performs arithmetic and logic operations.
 - **Main Memory:** Shared store for both program instructions and data. The CPU reads from and writes to this single memory space—a defining feature of the model.
